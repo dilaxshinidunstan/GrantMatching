@@ -345,4 +345,3 @@ print(final_demonstration_df.to_string())
 
 ---
 
-**You can now copy the entire text above and paste it into a new document file.**
